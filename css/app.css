@@ -1,12 +1,12 @@
               /* settaggi iniziali */
 
 *{
-    /* margin: 0;
-    padding: 0; */
+     margin: 0;
+    padding: 0; 
 }
               /* header modifiche */
 header{
-    background-color: rgb(82, 82, 241);
+    background-color: rgba(78,160,255,255);
     background-image: url('/img/pattern.png');
     background-position: center;
     background-size: 400px;
@@ -17,4 +17,51 @@ header img{
     height: 50px;
     padding-top: 45px;
     padding-left: 5px;
+}
+
+         /* Main modifiche */
+
+h1{
+    font-size: 35px;
+    margin-top: 15px;
+}         
+
+.details-photo{
+    font-size: 14px;
+    margin: 3px 0px 15px 0px;
+}
+
+.details-photo a{
+    text-decoration: none;
+}
+
+.descrizione{
+    font-size: 17px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.evidenziato{
+    background-color: gold;
+}
+               /* lista */
+
+.lista-lorem{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+             /* tabella */
+
+.table-data th{
+background-color: rgba(32,169,229,255);
+border: none;
+border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+    spac
+}
+.table-light{
+    background-color: rgba(177,229,242,255);
 }
