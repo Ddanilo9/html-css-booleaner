@@ -65,3 +65,13 @@ table{
 .table-light{
     background-color: rgba(177,229,242,255);
 }
+
+.caption span {
+    padding: 10px;
+    color: white;
+    position: absolute;
+    left: 0;
+}
+.caption span strong {
+    font-size: 20px;
+}
