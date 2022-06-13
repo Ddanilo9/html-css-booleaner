@@ -68,6 +68,9 @@ table{
     background-color: rgba(177,229,242,255);
 }
 
+td{
+    width: 750px;
+}
           /* footer */
 
 .caption span {
