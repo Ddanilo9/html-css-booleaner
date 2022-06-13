@@ -38,7 +38,7 @@ h1{
 .descrizione{
     font-size: 17px;
     margin-bottom: 15px;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 
 .evidenziato{
@@ -53,19 +53,23 @@ h1{
 
              /* tabella */
 
+           
+
 .table-data th{
 background-color: rgba(32,169,229,255);
-border: none;
-border-collapse: collapse;
+border-spacing: 10px;
 }
+
 table{
     border-collapse: collapse;
-    spac
+    border-spacing: 10px;
 }
 .table-light{
     background-color: rgba(177,229,242,255);
 }
+
           /* footer */
+
 .caption span {
     padding: 10px;
     color: white;
@@ -75,3 +79,8 @@ table{
 .caption span strong {
     font-size: 20px;
 }
+
+footer h3{
+    margin: 20px 20px 20px 0px;
+    color: rgba(139,139,139,255);
+    } 
