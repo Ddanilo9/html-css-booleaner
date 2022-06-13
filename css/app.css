@@ -1,8 +1,10 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+              /* settaggi iniziali */
 
+*{
+    /* margin: 0;
+    padding: 0; */
+}
+              /* header modifiche */
 header{
     background-color: rgb(82, 82, 241);
     background-image: url('/img/pattern.png');
